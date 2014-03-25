@@ -75,7 +75,7 @@ Cloning git repo
 
    On Fedora / Centos / RHEL::
 
-      $ apt-get install git
+      $ yum install git
 
 2. Clone a BS repo off of Github::
 
